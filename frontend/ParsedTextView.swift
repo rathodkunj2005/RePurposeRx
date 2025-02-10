@@ -14,6 +14,7 @@ struct ParsedTextView: View {
         parseSegments(from: text)
     }
     
+    
     var body: some View {
         VStack(alignment: .leading, spacing: 4) {
             ForEach(Array(segments.enumerated()), id: \.offset) { _, segment in

@@ -12,6 +12,7 @@ struct ChatMessage: Identifiable {
     let isUser: Bool
     var status: MessageStatus = .normal
 
+
     
     init(content: String, isUser: Bool, status: MessageStatus = .normal) {
         self.content = content

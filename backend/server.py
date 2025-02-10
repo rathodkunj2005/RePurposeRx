@@ -10,6 +10,7 @@ from werkzeug.serving import WSGIRequestHandler
 app = Flask(__name__)
 CORS(app)
 
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,

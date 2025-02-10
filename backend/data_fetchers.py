@@ -9,6 +9,7 @@ from config import (
     CLINICALTRIALS_GOV_BASE_URL, EUROPE_PMC_BASE_URL, TCGA_GDC_API_BASE_URL,
     FDA_API_BASE_URL, OMIM_API_KEY, DISGENET_API_KEY, PUBCHEM_PROPERTIES
 )
+
 from utils import fetch_data_from_api
 
 # PubChem Data Retrieval

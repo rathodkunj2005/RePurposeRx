@@ -10,6 +10,7 @@ from data_fetchers import (
 )
 from utils import get_pdf_url, download_pdf, search_pubmed, download_pubmed_pdfs
 
+
 # Process Drug Data
 def process_drug_data(metadata):
     """

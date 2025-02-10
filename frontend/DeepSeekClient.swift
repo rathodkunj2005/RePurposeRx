@@ -15,6 +15,7 @@ class DeepSeekClient: ObservableObject {
     ) {
         let endpoint = baseURL.appendingPathComponent("deepseek")
 
+
         var request = URLRequest(url: endpoint)
         request.httpMethod = "POST"
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")

@@ -5,6 +5,7 @@ struct ChatBubble: View {
     @Environment(\.colorScheme) var colorScheme
     let aiName: String // Add AI name as a parameter
 
+
     // MARK: - Constants for Styling
     private let avatarSize: CGFloat = 36
     private let avatarIconSize: CGFloat = 18

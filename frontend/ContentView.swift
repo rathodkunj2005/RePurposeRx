@@ -16,6 +16,7 @@ struct ContentView: View {
                         //.transition(.move(edge: .leading))
                 }
                 
+                
                 // Main Chat View
                 VStack(spacing: 0) {
                     // **Scrollable Chat Messages**

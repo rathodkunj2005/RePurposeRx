@@ -1,6 +1,7 @@
 
 import os
 
+
 METADATA_EXTRACTION_MODEL = os.getenv("METADATA_EXTRACTION_MODEL",'llama3.2:latest')
 RESPONSE_GENERATION_MODEL = os.getenv("RESPONSE_GENERATION_MODEL",'deepseek-r1:7b')
 # API Base URLs

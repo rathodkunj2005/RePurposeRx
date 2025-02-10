@@ -17,6 +17,7 @@ struct SidebarView: View {
     @State private var isAddingNewChat = false
     @State private var newChatTextFieldText = ""
 
+
     var body: some View {
         VStack(alignment: .leading) {
             // App Logo or Title

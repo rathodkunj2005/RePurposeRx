@@ -11,6 +11,7 @@ import SwiftUI
 import UIKit
 #endif
 
+
 struct SettingView: View {
     @Binding var isSettingsActive: Bool
 

@@ -8,6 +8,7 @@ import xml.etree.ElementTree as ET
 # Initialize logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+
 # Synchronous API Fetcher
 def fetch_data_from_api(url):
     """

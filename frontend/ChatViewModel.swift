@@ -14,6 +14,7 @@ class ChatViewModel: ObservableObject {
         let userMessage = ChatMessage(content: inputText, isUser: true)
         messages.append(userMessage)
         
+        
         let processingMessage = ChatMessage(
             content: "Processing your query...",
             isUser: false,
