@@ -14,9 +14,9 @@ DeepSeekApp is an AI-powered chat application that helps users interact with a s
 - Async/Await
 - REST APIs
 - JSON parsing
+- Ollama (DeepSeek R1)
 
 ## Installation
 1. Open in Swift Playgrounds
-2. Press Run
+2. Run server.py
 3. Start chatting!
-
