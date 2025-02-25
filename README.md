@@ -1,6 +1,6 @@
 # RepurposeRx
 
-[dark](https://github.com/user-attachments/assets/e2c0f9d7-8f8d-4530-8f52-4f3c6c27400f)
+![dark](https://github.com/user-attachments/assets/e2c0f9d7-8f8d-4530-8f52-4f3c6c27400f)
 
 
 🚀 Bridging AI & Drug Repurposing: Unlocking New Possibilities 🧬💊
